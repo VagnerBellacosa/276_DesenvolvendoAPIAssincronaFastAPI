@@ -1,2 +1,2 @@
-# 276_DesenvolvendoAPIAss-ncronaFastAPI
+# 276_DesenvolvendoAPIAssincronaFastAPI
 Desenvolvendo uma API Assíncrona com FastAPI
